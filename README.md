@@ -1,13 +1,10 @@
 # Deepfake detection using Deep Learning (ResNext and LSTM)
 
-Video of the project
-<a href="https://drive.google.com/file/d/1XffTspWWa6isclsNoZ17ZI6rW-H6-04-/view?usp=drivesdk"></a>
-<video width="320" height="240" controls>
-<source src="videoreference.mp4" type="video/mp4"></source>
-</video>
+### Video of the project
+<a href="https://drive.google.com/file/d/1XffTspWWa6isclsNoZ17ZI6rW-H6-04-/view?usp=drivesdk">video reference link</a>
 
 ## 1. Introduction
-This projects aims in detection of video deepfakes using deep learning techniques like ResNext and LSTM. We have achived deepfake detection by using transfer learning where the pretrained ResNext CNN is used to obtain a feature vector, further the LSTM layer is trained using the features. For more details follow the [documentaion](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Documentation).
+This projects aims in detection of video deepfakes using deep learning techniques like ResNext and LSTM. We have achived deepfake detection by using transfer learning where the pretrained ResNext CNN is used to obtain a feature vector, further the LSTM layer is trained using the features. For more details follow the [documentaion](https://github.com/M6839/Deep_Fake_Detection/blob/main/Project_report.pdf).
 
 
 
